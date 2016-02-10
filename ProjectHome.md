@@ -1,0 +1,1 @@
+provides a number of utilities on top of the Guice 2.x to help developers work with standard Annotations for injection and lifecycles from JSR 250, Spring, EJB3 and JPA as well as supporting Maven and improved Testing
